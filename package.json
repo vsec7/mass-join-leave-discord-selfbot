@@ -1,0 +1,30 @@
+{
+  "name": "mass-join-leave-discord-selfbot",
+  "version": "1.0.0",
+  "description": "Mass Join / Leave Server Discord Self Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsec7/mass-join-leave-discord-selfbot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Join",
+    "Leave"
+  ],
+  "author": "Verry Darmawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vsec7/mass-join-leave-discord-selfbot/issues"
+  },
+  "homepage": "https://github.com/vsec7/mass-join-leave-discord-selfbot#readme",
+  "dependencies": {
+    "dc-api": "^1.0.1",
+    "inquirer": "^8.2.1"
+  }
+}
